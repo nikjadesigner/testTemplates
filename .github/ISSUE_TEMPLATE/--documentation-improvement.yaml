@@ -16,6 +16,15 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
+- type: checkboxes
+  attributes:
+    label: What type of change are you suggesting?
+    description: Please select the type of change are you suggesting
+    options:
+    - label: Images improper
+    - label: Section improvement
+    - lable: video improvement
+      required: true
 - type: input
   attributes:
     label: Documentation Link 
