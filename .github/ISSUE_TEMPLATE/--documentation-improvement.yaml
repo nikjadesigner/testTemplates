@@ -23,8 +23,7 @@ body:
     options:
     - label: Images improper
     - label: Section improvement
-    - lable: video improvement
-      required: true
+    - label: video improvement
 - type: input
   attributes:
     label: Documentation Link 
